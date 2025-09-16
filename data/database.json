@@ -11,7 +11,6 @@
       "phoneNumber": "398-225-9900",
       "avatar": "https://avatars.dicebear.com/api/human/uBmeaz5pX.svg",
       "defaultPrivacyLevel": "public",
-      "balance": 332053,
       "createdAt": "2023-03-09T22:26:40.101Z",
       "modifiedAt": "2024-03-07T10:07:57.580Z"
     },
@@ -41,7 +40,6 @@
       "phoneNumber": "887-309-1593",
       "avatar": "https://avatars.dicebear.com/api/human/_XblMqbuoP.svg",
       "defaultPrivacyLevel": "contacts",
-      "balance": 410880,
       "createdAt": "2023-05-21T05:01:54.594Z",
       "modifiedAt": "2024-03-07T14:11:52.161Z"
     },
@@ -87,15 +85,15 @@
       "modifiedAt": "2025-09-15T16:45:01.021Z"
     },
     {
-      "id": "xlp0uNrav",
-      "uuid": "c2eef26c-7689-4d02-b780-621a1cb0e9d5",
+      "id": "dcZvm_kM6",
+      "uuid": "503c2ac0-b730-491d-b10a-f5f60ed98380",
       "firstName": "Admin",
       "lastName": "admin123",
       "username": "admin",
-      "password": "$2a$10$acpUFgfi.W.xqf7BPwFfjOl4XYPLEF63vLU10w4E.qWjLWpd0S.Ci",
-      "balance": 12300,
-      "createdAt": "2025-09-15T16:45:02.348Z",
-      "modifiedAt": "2025-09-15T16:45:02.348Z"
+      "password": "$2a$10$PzKkgtyv2UwupSnBapoGoeSTlBVwWC.4XJdsYUYzFNQu8omDdnYoy",
+      "balance": 0,
+      "createdAt": "2025-09-16T00:52:36.317Z",
+      "modifiedAt": "2025-09-16T00:52:36.317Z"
     }
   ],
   "contacts": [
@@ -286,17 +284,6 @@
       "isDeleted": true,
       "createdAt": "2025-09-15T16:45:19.578Z",
       "modifiedAt": "2025-09-15T16:45:19.578Z"
-    },
-    {
-      "id": "NGNVipRcc",
-      "uuid": "37b3aec2-6014-402b-9058-a1eac04eac7a",
-      "userId": "7hgYULLmz",
-      "bankName": "Nu Guido Bank",
-      "accountNumber": "654987321",
-      "routingNumber": "123456854",
-      "isDeleted": false,
-      "createdAt": "2025-09-15T22:29:40.061Z",
-      "modifiedAt": "2025-09-15T22:29:40.061Z"
     }
   ],
   "transactions": [
@@ -10244,15 +10231,15 @@
       "modifiedAt": "2025-09-15T22:44:44.080Z"
     },
     {
-      "id": "M3vHViqWR",
-      "uuid": "a4836bea-a69a-419f-984f-2432adb4c97a",
-      "amount": 32100,
-      "description": "ol",
+      "id": "sMioE-1dW",
+      "uuid": "ede5cf67-e5f7-48a5-8e09-5ac5c0a421bc",
+      "amount": 24000,
+      "description": "Bill",
       "receiverId": "uBmeaz5pX",
-      "senderId": "7hgYULLmz",
+      "senderId": "x2mfV1aIf",
       "status": "complete",
-      "createdAt": "2025-09-15T22:56:08.492Z",
-      "modifiedAt": "2025-09-15T22:56:08.492Z"
+      "createdAt": "2025-09-16T00:58:10.312Z",
+      "modifiedAt": "2025-09-16T00:58:10.312Z"
     }
   ],
   "likes": [
@@ -11226,14 +11213,14 @@
       "modifiedAt": "2025-09-15T22:56:30.686Z"
     },
     {
-      "id": "IDuSRh_S4M",
-      "uuid": "2853702f-7e19-45d2-8a17-8a2647105c72",
+      "id": "pOZNgnnoe-",
+      "uuid": "faf16393-51db-4f2c-abda-6b9a676e5830",
       "userId": "uBmeaz5pX",
-      "transactionId": "M3vHViqWR",
-      "commentId": "ZVUpTOugq",
+      "transactionId": "sMioE-1dW",
+      "status": "received",
       "isRead": false,
-      "createdAt": "2025-09-15T22:56:30.697Z",
-      "modifiedAt": "2025-09-15T22:56:30.697Z"
+      "createdAt": "2025-09-16T00:58:10.349Z",
+      "modifiedAt": "2025-09-16T00:58:10.349Z"
     }
   ],
   "banktransfers": [
@@ -12078,14 +12065,14 @@
       "modifiedAt": "2025-09-15T22:44:44.083Z"
     },
     {
-      "id": "RUwLPOR55_",
-      "uuid": "b2fcc32c-6bad-4435-a544-972ceec4cec0",
-      "userId": "7hgYULLmz",
-      "amount": 32100,
-      "transactionId": "M3vHViqWR",
+      "id": "Ek2D1GimVE",
+      "uuid": "df73542d-b7ba-4359-b989-9a6f311373b5",
+      "userId": "x2mfV1aIf",
+      "amount": 24000,
+      "transactionId": "sMioE-1dW",
       "type": "withdrawal",
-      "createdAt": "2025-09-15T22:56:08.495Z",
-      "modifiedAt": "2025-09-15T22:56:08.495Z"
+      "createdAt": "2025-09-16T00:58:10.314Z",
+      "modifiedAt": "2025-09-16T00:58:10.314Z"
     }
   ]
 }
